@@ -22,13 +22,14 @@
 </p>
 
 ### Languages & Scripting
-- JavaScript, C++, Python, Bash, YAML
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,bash,yaml" />
+</p>
 
 ### Technologies & Tools
-- React.js, Node.js, Express.js, REST APIs
-- MongoDB, PostgreSQL, Redis
-- Docker, Nginx, Git, GitHub
-- Linux, VPS, macOS, CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,redis,docker,nginx,git,github,linux,macos" />
+</p>
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -37,11 +38,22 @@
 </p>
 
 ## 🔗 Connect With Me
-<p>
-  <a href="mailto:aniketrawate660@gmail.com">aniketrawate660@gmail.com</a><br/>
-  <a href="https://linkedin.com/in/aniketpr">linkedin.com/in/aniketpr</a><br/>
-  <a href="https://github.com/aniketrawate">github.com/aniketrawate</a><br/>
-  <a href="https://aniketrawate.me">aniketrawate.me</a>
+<p align="center">
+  <a href="mailto:aniketrawate660@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-aniketrawate660@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br/>
+  <a href="https://linkedin.com/in/aniketpr" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-aniketpr-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br/>
+  <a href="https://github.com/aniketrawate" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-aniketrawate-171515?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/>
+  <a href="https://aniketrawate.me" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-aniketrawate.me-FF6B9D?style=flat-square&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
