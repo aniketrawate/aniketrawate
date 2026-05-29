@@ -29,8 +29,8 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://github.com/aniketrawate" target="_blank">GitHub</a> •
-  <a href="https://github.com/aniketrawate/aniketrawate/issues" target="_blank">Open an Issue</a>
+  <a href="https://github.com/aniketrawate" target="_blank">Visit my GitHub profile</a> •
+  <a href="https://github.com/aniketrawate/aniketrawate/issues" target="_blank">Report an issue on this profile repository</a>
 </p>
 
 ---
