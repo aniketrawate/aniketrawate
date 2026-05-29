@@ -21,6 +21,15 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,mysql,mongodb,docker,git,github" />
 </p>
 
+### Languages & Scripting
+- JavaScript, C++, Python, Bash, YAML
+
+### Technologies & Tools
+- React.js, Node.js, Express.js, REST APIs
+- MongoDB, PostgreSQL, Redis
+- Docker, Nginx, Git, GitHub
+- Linux, VPS, macOS, CI/CD
+
 ## 📈 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketrawate&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -29,8 +38,10 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://github.com/aniketrawate?tab=repositories">Browse my repositories</a><br/>
-  <a href="https://github.com/aniketrawate/aniketrawate/issues">Report an issue on this profile repository</a>
+  <a href="mailto:aniketrawate660@gmail.com">aniketrawate660@gmail.com</a><br/>
+  <a href="https://linkedin.com/in/aniketpr">linkedin.com/in/aniketpr</a><br/>
+  <a href="https://github.com/aniketrawate">github.com/aniketrawate</a><br/>
+  <a href="https://aniketrawate.me">aniketrawate.me</a>
 </p>
 
 ---
