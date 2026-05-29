@@ -126,39 +126,6 @@ I'm a **full-stack engineer and AI researcher** currently pursuing my **Master's
 
 ---
 
-## 🏅 Achievements & Leadership
-
-| 🏆 Achievement | 📅 Date |
-|---|---|
-| **🥈 2nd Rank – Hackgineer Hackathon** (State Level, ADYPSOE) — Prize money & recognition for solving real-world support problems for small businesses | Apr 2025 |
-| **📖 Published Research Author** – Springer Nature, ICWIHI 2025 | 2025 |
-| **🎪 Hosted Technovanza College Fest** – Organized & executed ADYPSOE's largest annual fest | Oct 2023 |
-| **📊 Secretary – Data Talks Club** – Planned and executed multiple Clonethons and Tech Events, fostering technical innovation | Aug 2023 – June 2024 |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| **M.E. in Computer Engineering** | Ajeenkya D Y Patil SOE, SPPU | Aug 2025 – Present |
-| **B.E. in AI & Data Science** | Ajeenkya D Y Patil SOE, SPPU | Dec 2021 – June 2025 |
-
-**Graduate Coursework:** Advanced Algorithms · Machine Learning · Distributed Computing · Quantum Computing · Cyber Security · NLP · Deep Learning · Generative AI · Federated Learning · Data Engineering · Cloud & Edge Technology
-
----
-
-## 🔬 Research
-
-**Research Scholar — Master's of Engineering**  
-*Ajeenkya D Y Patil School of Engineering | Jan 2026 – Present*  
-Currently conducting research on **AI-based code security systems**, with 2 manuscripts in preparation expected to be submitted by June 2027.
-
-**Research Author — Bachelor's of Engineering**  
-*Published at ICWIHI 2025 (Springer Nature)*  
-📄 Aniket Rawate et al., *"SaaS-Based AI Chatbot Platform for Small Businesses Using Low-Code Approach"*, ICWIHI 2025, Springer Nature, pp. 789–804, 2025.
-
----
 
 ## 📈 Activity Graph
 
