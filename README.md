@@ -29,8 +29,8 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://github.com/aniketrawate" target="_blank">GitHub</a> •
+  <a href="https://github.com/aniketrawate/aniketrawate/issues" target="_blank">Open an Issue</a>
 </p>
 
 ---
