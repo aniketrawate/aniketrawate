@@ -29,8 +29,8 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://github.com/aniketrawate" target="_blank" aria-label="Visit Aniket Rawate GitHub profile" title="Visit Aniket Rawate GitHub profile">Visit my GitHub profile</a> •
-  <a href="https://github.com/aniketrawate/aniketrawate/issues" target="_blank" aria-label="Report an issue on the profile repository" title="Report an issue on the profile repository">Report an issue on this profile repository</a>
+  <a href="https://github.com/aniketrawate" target="_blank" rel="noopener noreferrer" aria-label="Visit Aniket Rawate GitHub profile" title="Visit Aniket Rawate GitHub profile">Visit my GitHub profile</a> •
+  <a href="https://github.com/aniketrawate/aniketrawate/issues" target="_blank" rel="noopener noreferrer" aria-label="Report an issue on the profile repository" title="Report an issue on the profile repository">Report an issue on this profile repository</a>
 </p>
 
 ---
