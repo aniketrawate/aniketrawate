@@ -29,7 +29,7 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://github.com/aniketrawate?tab=repositories" aria-label="Browse repositories" title="Browse Aniket Rawate repositories">Browse my repositories</a> •
+  <a href="https://github.com/aniketrawate?tab=repositories" aria-label="Browse repositories" title="Browse Aniket Rawate repositories">Browse my repositories</a><br/>
   <a href="https://github.com/aniketrawate/aniketrawate/issues" aria-label="Report profile issue" title="Report an issue on the profile repository">Report an issue on this profile repository</a>
 </p>
 
